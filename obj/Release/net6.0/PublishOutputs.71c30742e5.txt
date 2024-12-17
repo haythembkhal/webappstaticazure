@@ -1,0 +1,7 @@
+C:\Users\hayth\source\repos\haythemsatic\haythemsatic\obj\Release\net6.0\PubTmp\Out\haythemsatic.exe
+C:\Users\hayth\source\repos\haythemsatic\haythemsatic\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\hayth\source\repos\haythemsatic\haythemsatic\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\hayth\source\repos\haythemsatic\haythemsatic\obj\Release\net6.0\PubTmp\Out\haythemsatic.dll
+C:\Users\hayth\source\repos\haythemsatic\haythemsatic\obj\Release\net6.0\PubTmp\Out\haythemsatic.deps.json
+C:\Users\hayth\source\repos\haythemsatic\haythemsatic\obj\Release\net6.0\PubTmp\Out\haythemsatic.runtimeconfig.json
+C:\Users\hayth\source\repos\haythemsatic\haythemsatic\obj\Release\net6.0\PubTmp\Out\haythemsatic.pdb
